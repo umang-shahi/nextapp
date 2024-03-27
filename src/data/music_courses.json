@@ -1,0 +1,40 @@
+{
+    "courses":[
+        {
+           "title":"Guitar Fundamentals",
+           "slug":"guitar-fundamentals",
+           "description":"Learn the basics of playing guitar with our comprehensive music course",
+           "price":99.99,
+           "instructor":"Umang shahi",
+           "isFeatured":true,
+           "image":""
+        },
+        {
+            "title":"Guitar Fundamentals",
+            "slug":"guitar-fundamentals",
+            "description":"Learn the basics of playing guitar with our comprehensive music course",
+            "price":99.99,
+            "instructor":"Umang shahi",
+            "isFeatured":true,
+            "image":""
+         },
+         {
+            "title":"Guitar Fundamentals",
+            "slug":"guitar-fundamentals",
+            "description":"Learn the basics of playing guitar with our comprehensive music course",
+            "price":99.99,
+            "instructor":"Umang shahi",
+            "isFeatured":true,
+            "image":""
+         },
+         {
+            "title":"Guitar Fundamentals",
+            "slug":"guitar-fundamentals",
+            "description":"Learn the basics of playing guitar with our comprehensive music course",
+            "price":99.99,
+            "instructor":"Umang shahi",
+            "isFeatured":true,
+            "image":""
+         }
+    ]
+}
